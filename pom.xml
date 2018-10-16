@@ -88,7 +88,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven Web Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/Maven_Web_SNAPSHOT//</url>
+	      <url>http://localhost:8081/repository/Maven_Web_SNAPSHOT/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
